@@ -1,0 +1,1 @@
+/**/ typeof asyncUserStatusWrapperOnLoad === 'function' && asyncUserStatusWrapperOnLoad({"id":null,"email":null,"username":null,"facebookUid":null,"profileSlug":null,"avatar":"//assets.staticlp.com/profiles/users/placeholders/small.png","timestamp":"2019-01-18T13:29:12.986Z","variant":"_split-16-connect"});
